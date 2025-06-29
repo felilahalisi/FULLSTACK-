@@ -1,0 +1,32 @@
+{
+ "mahasiswa": [
+ {
+ "nim": "1122101010",
+ "nama": "Ahmad Budi",
+ "jurusan": "Teknik Informatika",
+ "angkatan": 2020,
+ "email": "ahmad.budi@example.com"
+ },
+ {
+ "nim": "1122101011",
+ "nama": "Siti Aminah",
+ "jurusan": "Teknik Informatika",
+ "angkatan": 2020,
+ "email": "siti.aminah@example.com"
+ },
+ {
+ "nim": "1122101012",
+ "nama": "Rudi Hartono",
+ "jurusan": "Teknik Informatika",
+ "angkatan": 2020,
+ "email": "rudi.hartono@example.com"
+ },
+ {
+ "nim": "1122101013",
+ "nama": "Dewi Sartika",
+ "jurusan": "Teknik Informatika",
+ "angkatan": 2020,
+ "email": "dewi.sartika@example.com"
+ }
+ ]
+}
